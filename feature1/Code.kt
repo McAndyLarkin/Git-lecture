@@ -9,6 +9,7 @@ class Activity {
     private fun initUI() {
         initText()
         initEditText()
+        initSpinner()
         initButtons()
     }
 
