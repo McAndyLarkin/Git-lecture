@@ -12,6 +12,7 @@ class Activity {
         initEditText()
         initSpinner()
         initButtons()
+        initImages()
         1 + 5 + 4 + 7
     }
 
