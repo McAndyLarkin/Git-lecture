@@ -6,7 +6,10 @@ class Activity {
         initOkhht()
     }
 
-    private fun initUI() = Unit
+    private fun initUI() {
+        initText()
+        initButtons()
+    }
 
     private fun initFirebase() = Unit
 
