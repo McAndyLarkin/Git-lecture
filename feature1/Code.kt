@@ -12,6 +12,7 @@ class Activity {
         initEditText()
         initSpinner()
         initButtons()
+        initImages()
     }
 
     private fun initFirebase() = Unit
