@@ -7,6 +7,7 @@ class Activity {
     }
 
     private fun initUI() {
+        1 + 2+ 3 + 4
         initText()
         initEditText()
         initSpinner()
