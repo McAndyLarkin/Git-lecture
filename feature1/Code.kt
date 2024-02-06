@@ -3,12 +3,12 @@ class Activity {
 //        super().onCreate()
         initUI()
         initFirebase()
-        initRetrofit()
+        initOkhht()
     }
 
     private fun initUI() = Unit
 
     private fun initFirebase() = Unit
 
-    private fun initRetrofit() = Unit
+    private fun initOkhht() = Unit
 }
